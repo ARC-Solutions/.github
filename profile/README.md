@@ -5,13 +5,13 @@
 
 - 🌱 We're currently learning **Unreal Engine 5, React JS, Python and Blender.**
 
-- 👨‍💻 All of our projects are available at [Ricky: https://github.com/RickyRAV](Ricky: https://github.com/RickyRAV)
-- 👨‍💻 All of our projects are available at [Nippon: https://github.com/Noppin](Nippon: https://github.com/Noppin)
-- 👨‍💻 All of our projects are available at [Nikola: https://github.com/Niukuu](Ricky: https://github.com/Niukuu)
+- 👨‍💻 All of our projects are available at [Ricky: https://github.com/RickyRAV]
+- 👨‍💻 All of our projects are available at [Nippon: https://github.com/Noppin]
+- 👨‍💻 All of our projects are available at [Ricky: https://github.com/Niukuu]
 
 - 📫 How to reach us **Ricky: @maraciuca30**
 - 📫 How to reach us **Nippon: @noppin7**
-- 📫 How to reach us **Nikola: @__nioko__**
+- 📫 How to reach us **Nippon: @__nioko__**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
