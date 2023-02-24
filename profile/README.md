@@ -11,7 +11,7 @@
 
 - 📫 How to reach us **Ricky: @maraciuca30**
 - 📫 How to reach us **Nippon: @noppin7**
-- 📫 How to reach us **Nippon: @__nioko__**
+- 📫 How to reach us **Nikola: @__nioko__**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
