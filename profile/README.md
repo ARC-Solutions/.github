@@ -10,6 +10,8 @@
 - 👨‍💻 All of our projects are available at [Ricky: https://github.com/Niukuu](Ricky: https://github.com/Niukuu)
 
 - 📫 How to reach us **Ricky: @maraciuca30**
+- 📫 How to reach us **Nippon: @noppin7**
+- 📫 How to reach us **Nippon: @__nioko__**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
