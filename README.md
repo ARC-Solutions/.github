@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, we are the ARC Team.</h1>
 <h3 align="center">3 Friends passionate about F1, Coding and anime.</h3>
+<h2 id="-socials-">🌐 Socials:</h2>
+<p><a href="https://instagram.com/@maraciuca30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Ricky"></a> 
+<a href="https://instagram.com/@maraciuca30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Nippon"></a> 
+<a href="https://twitch.tv/maraciuca_"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" alt="Twitch"></a> 
+</p>
 
 - 🔭 We are currently working on [ARCV2](https://github.com/ARC-Solutions/ARCV2)
 
