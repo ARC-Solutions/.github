@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./ARC-TextLogo.png", width=25%></img></h1>
+<h1 align="center"><img src="https://github.com/ARC-Solutions/.github/blob/main/profile/ARC-TextLogo.png", width=25%></img></h1>
 <h3 align="center" style="font-weight:500;">3 Friends passionate about F1, Coding and anime.</h3>
 <h2 id="-socials-">🌐 Socials:</h2>
 <p><a href="https://instagram.com/maraciuca30"><img src="https://img.shields.io/badge/Ricky-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
