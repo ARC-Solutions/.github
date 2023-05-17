@@ -13,7 +13,7 @@
 
 # Info
 
-- 🔭 We are currently working on [ARCV2](https://github.com/ARC-Solutions/ARCV2)
+- 🔭 We are currently working on [ARC-Velocity](https://github.com/ARC-Solutions/ARCV2)
 
 - 🌱 We're currently learning **Unreal Engine 5, React JS, Python and Blender.**
 
