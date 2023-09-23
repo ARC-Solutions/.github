@@ -80,7 +80,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/typescript-original.svg" alt="TS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/javascript-original.svg" alt="JS" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"/>  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" height="50"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50"/>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />
@@ -105,7 +105,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" height="50"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
 </div>
