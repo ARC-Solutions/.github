@@ -18,6 +18,7 @@
 - 🌱 We're currently learning **Typescript, Tailwind, React, Python**
 
 <br>
+<a href="https://www.buymeacoffee.com/arcsolutions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
