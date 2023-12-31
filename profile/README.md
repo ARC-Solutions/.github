@@ -26,27 +26,27 @@
 ### Nippon 
 <div align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40" style="filter: invert(1);" />
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="50" height="50" style="filter: invert(1);" />
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="50" height="50"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,8 +61,6 @@
 <img style="margin: 10px; filter: brightness(0) invert(1);" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="Numpy" height="50" />
 <img style="margin: 10px;" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pandas-original.svg" alt="Pandas" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<!-- <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/cplusplus-original.svg" alt="C++" height="50" /> -->
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/csharp-original.svg" alt="csharp" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/58620e62fe0172703e2b99a6fa43c91cc2f53b3d/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Azure" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" height="50"/>
@@ -74,19 +72,16 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
-<!-- <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/sqlite-icon.svg" alt="sqlite" height="50"/> -->
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Static/nextjs-2.svg" alt="NextJS" height="50"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Static/nextjs-2.svg" alt="NextJS" height="50" width="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/typescript-original.svg" alt="TS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/javascript-original.svg" alt="JS" height="50"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" height="50"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50"/>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Software/figma-icon.svg" alt="Figma" height="50"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Software/framer-icon.svg" alt="Framer" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" height="50"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -105,11 +100,16 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" height="50"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="50" height="50"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" height="50"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" height="50"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="nodeJS" height="50"/>
 </div>
 
 </td></tr></table>
