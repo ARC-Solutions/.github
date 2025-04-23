@@ -13,7 +13,7 @@
 
 # Info
 
-- 🔭 We are currently working on [IntelliQ](https://github.com/ARC-Solutions/IntelliQ)
+- 🔭 We are currently working on [IntelliQ](https://github.com/ARC-Solutions/IntelliQ-V2)
 
 - 🌱 We're currently learning **Typescript, Tailwind, React, Python**
 
