@@ -68,20 +68,14 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/nginx-original.svg" alt="Nginx" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="nodeJS" height="50"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mariadb-icon.svg" alt="MariaDB" height="50"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Static/nextjs-2.svg" alt="NextJS" height="50" width="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" height="50"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/typescript-original.svg" alt="TS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/javascript-original.svg" alt="JS" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Software/figma-icon.svg" alt="Figma" height="50"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Software/framer-icon.svg" alt="Framer" height="50"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" height="50"/>
 </div>
 
 </td><td valign="top" width="33%">
