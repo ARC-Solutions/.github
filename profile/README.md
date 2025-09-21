@@ -1,11 +1,8 @@
 <h1 align="center"><img src="https://github.com/ARC-Solutions/.github/blob/main/profile/ARC-TextLogo.png", width=25%></img></h1>
 <h3 align="center" style="font-weight:500;">3 Friends passionate about F1, Coding and anime.</h3>
 <h2 id="-socials-">🌐 Socials:</h2>
-<p><a href="https://instagram.com/maraciuca30"><img src="https://img.shields.io/badge/Ricky-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/RickyRAV"><img src="https://img.shields.io/badge/Ricky-000000.svg?logo=Github&amp;logoColor=white" alt="Github"></a>
-<a href="https://www.instagram.com/__nioko__/"><img src="https://img.shields.io/badge/Nikola-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/Niukuu"><img src="https://img.shields.io/badge/Nikola-000000.svg?logo=Github&amp;logoColor=white" alt="Github"></a>
-<a href="https://www.instagram.com/noppin7/"><img src="https://img.shields.io/badge/Nippon-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/Noppin"><img src="https://img.shields.io/badge/Nippon-000000.svg?logo=Github&amp;logoColor=white" alt="Github"></a>
 
  </p>
